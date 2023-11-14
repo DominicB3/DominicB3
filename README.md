@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm very cool, but [Gruficlath](https://github.com/GlitchyCrafting) is cooler; You should go jump him. 👍
 
 <!--
 **DominicB3/DominicB3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
