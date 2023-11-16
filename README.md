@@ -11,7 +11,7 @@ firstNumber = input("Hello! Please enter the first Number you would like. ")
 secondNumber = input("Alrighty; Next Number please! ")
 thirdNumber = input("And finally, the last Number! ")
 
-if firstNumber and secondNumber and thirdNumber.isdigit():
+if firstNumber.isdigit() and secondNumber.isdigit() and thirdNumber.isdigit():
   firstNumber = int(firstNumber)
   secondNumber = int(secondNumber)
   thirdNumber = int(thirdNumber)
