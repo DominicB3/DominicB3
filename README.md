@@ -8,7 +8,7 @@ PixilArt of mine, if you're _interested:_ [DominicB3](https://www.pixilart.com/d
 > "*Ergo vast authorize thine soles edifice*"
 > -Dominic Bodkin
 
-Recently have learned to set checks using isdigit command in python
+Recently have learned to set checks using .isdigit() command in python
 ```python
 firstNumber = input("Hello! Please enter the first Number you would like. ")
 secondNumber = input("Alrighty; Next Number please! ")
