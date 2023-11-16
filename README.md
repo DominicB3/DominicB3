@@ -2,7 +2,7 @@
 ## I'm very cool, but [Gruficlath](https://github.com/GlitchyCrafting) is cooler; You should go jump him. 👍
 PixilArt of mine, if you're _interested:_ [DominicB3](https://www.pixilart.com/dominicb3/gallery)
 
-> "We do this *NOT* because we thought it would be easy, *BUT* because we thought it would be easy"
+> "We do this *NOT* because it is easy, *BUT* because we thought it would be easy"
 > -Trenton Burnes
 
 > "*Ergo vast authorize thine soles edifice*"
