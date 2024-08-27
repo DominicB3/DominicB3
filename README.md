@@ -1,5 +1,5 @@
 # Front end dev
-## PixilArt of mine, if you're _interested:_ [DominicB3](https://www.pixilart.com/dominicb3/gallery)
+### I enjoy Web Design, Development; And am self teaching Game Devlopment and Design
 
 
 *Founder of* [*Goofy Ah Productions*](https://github.com/Goofy-Ah-Productions)
